@@ -1,6 +1,6 @@
 node1,node2,trail,distance,color,estimate
 bachue1,independencia,rs,0.3,red,0
-independencia,acacias,rs,0.21,green,0
+independencia,acacias,rs,0.21,blue,0
 acacias,bachue2,rs,0.11,red,0
 bachue2,centro,rs,0.18,violet,0
 centro,nutivara1,rs,0.21,red,0
